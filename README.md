@@ -2,13 +2,17 @@
 
 Something about Will. where is he come from.
 
+## Motivation
+
+A short description of the motivation behind the creation and maintenance of the project. This should explain **why** the project exists.
+
 ## Code Example
 
 Show what the library does as concisely as possible, developers should be able to figure out **how** your project solves their problem by looking at the code example. Make sure the API you are showing off is obvious, and that your code is short and concise.
 
-## Motivation
+## Structure
 
-A short description of the motivation behind the creation and maintenance of the project. This should explain **why** the project exists.
+A short description of something and something
 
 ## Installation
 
